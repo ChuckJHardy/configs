@@ -109,6 +109,11 @@ _G.packer_plugins = {
     path = "/Users/chuckjhardy/.local/share/nvim/site/pack/packer/start/friendly-snippets",
     url = "https://github.com/rafamadriz/friendly-snippets"
   },
+  ["git-blame.nvim"] = {
+    loaded = true,
+    path = "/Users/chuckjhardy/.local/share/nvim/site/pack/packer/start/git-blame.nvim",
+    url = "https://github.com/f-person/git-blame.nvim"
+  },
   ["lsp-zero.nvim"] = {
     loaded = true,
     path = "/Users/chuckjhardy/.local/share/nvim/site/pack/packer/start/lsp-zero.nvim",

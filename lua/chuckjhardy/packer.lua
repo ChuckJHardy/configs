@@ -50,4 +50,5 @@ return require('packer').startup(function(use)
     }
 
     use { "nvim-telescope/telescope-file-browser.nvim" }
+    use { "f-person/git-blame.nvim" }
 end)
