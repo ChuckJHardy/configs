@@ -1,5 +1,7 @@
 vim.opt.guicursor = ""
 
+vim.opt.encoding = "utf-8"
+
 vim.opt.nu = true
 vim.opt.relativenumber = true
 
@@ -19,6 +21,9 @@ vim.opt.undofile = true
 
 vim.opt.hlsearch = true
 vim.opt.incsearch = true
+
+vim.g.loaded_netrw = 1
+vim.g.loaded_netrwPlugin = 1
 
 vim.opt.termguicolors = true
 
